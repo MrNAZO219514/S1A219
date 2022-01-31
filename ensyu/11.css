@@ -24,6 +24,9 @@ p.mincho {
     font-weight: bold;
 }
 p.left {
+    text-align: left;
+}
+p.center{
     text-align: center;
 }
 p.right {
